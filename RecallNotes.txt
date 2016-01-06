@@ -1,0 +1,5 @@
+Chapter 3
+	This chapter provides us with a roadmap of the whole document.
+	It discusses that the authors created a fictional company so that
+	we could use its fictional financial statements to study better.
+
